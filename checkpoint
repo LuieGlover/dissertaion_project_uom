@@ -1,2 +1,0 @@
-model_checkpoint_path: "cnn_tagging_model.tf"
-all_model_checkpoint_paths: "cnn_tagging_model.tf"
