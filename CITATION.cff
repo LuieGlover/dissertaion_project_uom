@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'CNN for Jet Tagging '
+message: >-
+  Software used for my University of Manchester dissertation
+  project 2023
+type: software
+authors:
+  - given-names: Luie
+    family-names: Glover
+    email: luietom1@gmail.com
+repository-code: 'https://github.com/LuieGlover/dissertaion_project_uom.git'
+abstract: >-
+  Builds a CNN on (25x25x1) image data for top quark jets
+  and QCD background jets. 
+license: MIT
